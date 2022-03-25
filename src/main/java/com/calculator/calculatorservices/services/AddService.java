@@ -10,9 +10,4 @@ public class AddService {
         return a+b;
     }
 }
-//add service fr all ctrl
-//log rotation in microservices
-//maven
-//pom
-//app.prop
-//local path
+
