@@ -1,0 +1,16 @@
+[INFO ] 2022-04-05 13:45:00.665 [restartedMain] CalculatorServicesApplication - Starting CalculatorServicesApplication using Java 17.0.2 on BDC6-L-DNG2NW2 with PID 18896 (C:\Gowri\Java\Springboot\calculator-services\target\classes started by gowri.shankkari.ragu in c:\Gowri\Java\Springboot\calculator-services)
+[DEBUG] 2022-04-05 13:45:00.669 [restartedMain] CalculatorServicesApplication - Running with Spring Boot v2.6.4, Spring v5.3.16
+[INFO ] 2022-04-05 13:45:00.670 [restartedMain] CalculatorServicesApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-04-05 13:45:03.850 [restartedMain] CalculatorServicesApplication - Started CalculatorServicesApplication in 3.75 seconds (JVM running for 5.424)
+[INFO ] 2022-04-05 13:45:33.745 [http-nio-8080-exec-1] DivideService - Entered didvide method
+[DEBUG] 2022-04-05 13:46:46.430 [http-nio-8080-exec-2] AddService - Entered add method
+[INFO ] 2022-04-05 16:01:47.867 [http-nio-8080-exec-3] SubService - Entered subtract method
+[INFO ] 2022-04-05 16:01:53.246 [http-nio-8080-exec-4] MultiplyService - Entered multiply method
+[INFO ] 2022-04-05 16:03:03.914 [restartedMain] CalculatorServicesApplication - Starting CalculatorServicesApplication using Java 17.0.2 on BDC6-L-DNG2NW2 with PID 18896 (C:\Gowri\Java\Springboot\calculator-services\target\classes started by gowri.shankkari.ragu in c:\Gowri\Java\Springboot\calculator-services)
+[DEBUG] 2022-04-05 16:03:03.918 [restartedMain] CalculatorServicesApplication - Running with Spring Boot v2.6.4, Spring v5.3.16
+[INFO ] 2022-04-05 16:03:03.921 [restartedMain] CalculatorServicesApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-04-05 16:03:05.384 [restartedMain] CalculatorServicesApplication - Started CalculatorServicesApplication in 1.675 seconds (JVM running for 8286.972)
+[INFO ] 2022-04-05 16:06:52.988 [restartedMain] CalculatorServicesApplication - Starting CalculatorServicesApplication using Java 17.0.2 on BDC6-L-DNG2NW2 with PID 18896 (C:\Gowri\Java\Springboot\calculator-services\target\classes started by gowri.shankkari.ragu in c:\Gowri\Java\Springboot\calculator-services)
+[DEBUG] 2022-04-05 16:06:52.990 [restartedMain] CalculatorServicesApplication - Running with Spring Boot v2.6.4, Spring v5.3.16
+[INFO ] 2022-04-05 16:06:52.991 [restartedMain] CalculatorServicesApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2022-04-05 16:06:54.049 [restartedMain] CalculatorServicesApplication - Started CalculatorServicesApplication in 1.188 seconds (JVM running for 8515.638)
